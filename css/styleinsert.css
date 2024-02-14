@@ -1,0 +1,45 @@
+/* Estilos para o formulário */
+form {
+    font-size: 18px;
+    width: 100%;
+}
+
+.custom-header {
+    background-color: #17a2b8;
+    color: white;
+}
+
+.input_info {
+    width: calc(100% - 20px);
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 40px;
+    padding: 20px;
+    width: 50%;
+}
+
+h2 {
+    color: #008080;
+    margin-bottom: 20px;
+}
+
+.btn {
+    margin-right: 10px;
+    font-size: 14px; /* Reduzindo o tamanho da fonte */
+    padding: 8px 20px; /* Ajustando o padding */
+    width: 150px; /* Definindo a largura fixa */
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.table button {
+    margin-right: 5px;
+}

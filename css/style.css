@@ -1,0 +1,37 @@
+.main{
+    border: solid 2px black;
+    margin: 40px;
+}
+
+h2{
+    color: #008080;
+    margin: 2px;
+    width: 50%;
+}
+
+.tabela{
+    text-align: left;
+}
+
+th, td{
+    padding: 10px;
+    margin: 10px
+}
+
+.btn{
+    text-decoration: none;
+    margin: 10px;
+    background-color: aquamarine;
+    font-size: 17px;
+
+    
+}
+
+.btnDelete{
+    text-decoration: none;
+}
+
+
+
+
+
